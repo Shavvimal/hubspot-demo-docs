@@ -47,3 +47,8 @@ colors.css
 
 notes.md
 .vercel
+
+*.webm
+*.mp4
+!public/tutorial-videos/*.webm
+!public/tutorial-videos/*.mp4
